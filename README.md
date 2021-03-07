@@ -2,7 +2,7 @@ Group projects for the Operating systems course. The projects were coded is shel
 
 ### Group Members
   1. Muhammed Fatih Öztel
-  2. Sammeh N O Kunbargi
+  2. Yunus Stahlschmidt
 
 # Project 1 
 The first programm is a shell proram with 5 functionalities:
